@@ -1,0 +1,31 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.obj"
+  "CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.obj.d"
+  "CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.obj"
+  "CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.obj.d"
+  "CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.obj"
+  "CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.obj.d"
+  "CMakeFiles/CircleCovering.dir/src/Base.cpp.obj"
+  "CMakeFiles/CircleCovering.dir/src/Base.cpp.obj.d"
+  "CMakeFiles/CircleCovering.dir/src/CMCC.cpp.obj"
+  "CMakeFiles/CircleCovering.dir/src/CMCC.cpp.obj.d"
+  "CMakeFiles/CircleCovering.dir/src/Clip.cpp.obj"
+  "CMakeFiles/CircleCovering.dir/src/Clip.cpp.obj.d"
+  "CMakeFiles/CircleCovering.dir/src/LocalSearch.cpp.obj"
+  "CMakeFiles/CircleCovering.dir/src/LocalSearch.cpp.obj.d"
+  "CMakeFiles/CircleCovering.dir/src/Point.cpp.obj"
+  "CMakeFiles/CircleCovering.dir/src/Point.cpp.obj.d"
+  "CMakeFiles/CircleCovering.dir/src/Voronoi.cpp.obj"
+  "CMakeFiles/CircleCovering.dir/src/Voronoi.cpp.obj.d"
+  "CMakeFiles/CircleCovering.dir/src/main.cpp.obj"
+  "CMakeFiles/CircleCovering.dir/src/main.cpp.obj.d"
+  "CircleCovering.exe"
+  "CircleCovering.exe.manifest"
+  "CircleCovering.pdb"
+  "libCircleCovering.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/CircleCovering.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
