@@ -35,7 +35,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 This repository provides a C++ implementation of the algorithm proposed in the paper **A novel and efficient formulation and solution approach for the region coverage problem with identical circles** by Qinghua Wu, Minxuan Li, Xiangjing Lai, Jin-Kao Hao, and Yuzhuo Qiu.
 
-The repository includes the source code of algorithm, the benchmark instances, the best solutions found in the study, the second part of online supplement, and the script to compile the source code of algorithm.
+The repository includes the source code of algorithm, the benchmark instances,  the best solutions found in the study,  the second part of online supplement, and the script to compile the source code of algorithm.  
 
 ## Running the Program
 
@@ -49,7 +49,7 @@ To generate the executable code of algorithm, compile the project in the`src/cir
 
 * `Region` denotes the benchmark region (e.g., `Square`, `Triangle`, `C14H2`, `C101H3`).
 * `n` is a positive integer indicating the number of circles.
-* `Constraint` is a binary integer flag used to select the problem formulation:
+* `Constraint` is a binary integer flag  used to select the problem formulation:
 
   * `0` for the unconstrained region coverage problem;
   * `1` for the constrained region coverage problem.
@@ -65,13 +65,9 @@ Example:
 This repository includes the following materials:
 
 * *Benchmark regions for both constrained and unconstrained region coverage problems.* (See the [data](data) directory for the details.)
-* *C++ source code of the proposed algorithm.* (See [src](src/circle_covering) directory for the details.)
+* *C++ source code of the proposed  algorithm.* (See the [src](src/circle_covering) directory for the details.)
 * *Script for compiling and running the program.* (See the [scripts](scripts) directory for the details.)
 * *Best solutions found in the paper.* (See the [results](results) directory for the details.)
 * *The second part of online supplement of the paper.* (See the [docs](docs) directory for the details.)
 
-<<<<<<< HEAD
 **Note:** Each subdirectory contains its own README file.
-=======
-**Note:** Each subdirectory contains its own README file (when applicable) describing the corresponding file formats and contents.
->>>>>>> cddfe94fe92436bd672098dee09f296fce235021
