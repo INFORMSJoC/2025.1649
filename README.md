@@ -65,7 +65,7 @@ Example:
 This repository includes the following materials:
 
 * *Benchmark regions for both constrained and unconstrained region coverage problems.* (See the [data](data) directory for the details.)
-* *C++ source code of the proposed  algorithm.* (See [src](src/circle_covering) directory for the details.)
+* *C++ source code of the proposed  algorithm.* (See the [src](src/circle_covering) directory for the details.)
 * *Script for compiling and running the program.* (See the [scripts](scripts) directory for the details.)
 * *Best solutions found in the paper.* (See the [results](results) directory for the details.)
 * *The second part of online supplement of the paper.* (See the [docs](docs) directory for the details.)
