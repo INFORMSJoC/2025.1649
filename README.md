@@ -49,7 +49,7 @@ To generate the executable code of algorithm, compile the project in the`src/cir
 
 * `Region` denotes the benchmark region (e.g., `Square`, `Triangle`, `C14H2`, `C101H3`).
 * `n` is a positive integer indicating the number of circles.
-* `Constraint` is a binary integer flag  used to select the problem tpye:
+* `Constraint` is a binary integer flag  used to select the problem type:
 
   * `0` for the unconstrained region coverage problem;
   * `1` for the constrained region coverage problem.
