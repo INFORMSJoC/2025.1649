@@ -3,7 +3,7 @@
 # A novel and efficient formulation and solution approach for the region coverage problem with identical circles
 
 This archive is distributed in association with the [INFORMS Journal on
-Computing](https://pubsonline.informs.org/journal/ijoc) under the MIT License.
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License].
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on the paper
