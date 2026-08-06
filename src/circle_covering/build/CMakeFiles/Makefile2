@@ -53,10 +53,10 @@ RM = D:\C\CMake\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\89441\Desktop\2025.1649-main\src\circle_covering
+CMAKE_SOURCE_DIR = C:\Users\89441\Desktop\2025.1649\src\circle_covering
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build
+CMAKE_BINARY_DIR = C:\Users\89441\Desktop\2025.1649\src\circle_covering\build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -80,14 +80,14 @@ clean: CMakeFiles/CircleCovering.dir/clean
 CMakeFiles/CircleCovering.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CircleCovering.dir\build.make CMakeFiles/CircleCovering.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CircleCovering.dir\build.make CMakeFiles/CircleCovering.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11 "Built target CircleCovering"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11 "Built target CircleCovering"
 .PHONY : CMakeFiles/CircleCovering.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CircleCovering.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\CMakeFiles 11
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\CMakeFiles 11
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CircleCovering.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\CMakeFiles 0
 .PHONY : CMakeFiles/CircleCovering.dir/rule
 
 # Convenience name for target.

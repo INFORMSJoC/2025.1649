@@ -1,5 +1,5 @@
 CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.obj: \
- C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\clipper\clipper.offset.cpp \
+ C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\clipper\clipper.offset.cpp \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cmath \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -22,7 +22,7 @@ CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.obj: \
  D:/C/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/stdlib.h \
  D:/C/mingw64/x86_64-w64-mingw32/include/malloc.h \
- C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\clipper\clipper.h \
+ C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\clipper\clipper.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdlib \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/type_traits \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/vector \
@@ -64,8 +64,8 @@ CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.obj: \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/functional_hash.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/range_access.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/vector.tcc \
- C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\clipper\clipper.offset.h \
- C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\clipper\clipper.engine.h \
+ C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\clipper\clipper.offset.h \
+ C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\clipper\clipper.engine.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stdint.h \
  D:/C/mingw64/x86_64-w64-mingw32/include/stdint.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
@@ -157,11 +157,11 @@ CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.obj: \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/atomic_base.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/atomic_lockfree_defines.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward/auto_ptr.h \
- C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\clipper\clipper.core.h \
+ C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\clipper\clipper.core.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/algorithm \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algo.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/algorithmfwd.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/uniform_int_dist.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/limits \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/climits \
- C:/Users/89441/Desktop/2025.1649-main/src/circle_covering/include/Point.h
+ C:/Users/89441/Desktop/2025.1649/src/circle_covering/include/Point.h

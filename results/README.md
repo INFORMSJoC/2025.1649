@@ -1,6 +1,6 @@
 # Results
 
-This directory contains the best solutions obtained in the computational experiments reported in the paper.
+This directory contains the best solutions obtained in our computational experiments.
 
 ## Directory Structure
 
@@ -19,7 +19,7 @@ results/
     ├── ...
 ```
 
-Each benchmark instance contains one or more solution files corresponding to different numbers of circles.
+Each innermost subfolder contains the solution files of several benchmark instances sharing the same region.
 
 For example,
 
@@ -47,18 +47,7 @@ where
 * `r` is the optimized common covering radius;
 * `(xi, yi)` denotes the center coordinates of the *i*-th circle.
 
-## Solution Verification
-
-A solution can be considered valid if it satisfies both the coverage requirement and the geometric constraints (for constrained instances).
-
-When evaluating a solution, the following quantities should be checked:
-
-* **Coverage violation (sum of squared errors):** For each Voronoi vertex of a circle's cell, if its distance to the corresponding circle center exceeds the covering radius `r`, the squared difference is accumulated. A value close to zero indicates that the region is completely covered.
-* **Constraint violation (sum of squared errors):** (for constrained instances only) If a circle center lies outside the container or inside a hole, the squared distance to the nearest feasible boundary is accumulated. A value close to zero indicates that all circle centers satisfy the geometric constraints.
-
-A solution is regarded as feasible when both quantities are close to zero (up to numerical precision).
-
 
 ## Notes
 
-The files in this directory correspond to the best solutions reported in the paper and can be used for reproducing the computational results or for visualization and further analysis.
+Each innermost subfolder of this directory corresponds to a benchmark region, and contains the coordinate file of benchmark region and solution files of several instances with different numbers of circles.

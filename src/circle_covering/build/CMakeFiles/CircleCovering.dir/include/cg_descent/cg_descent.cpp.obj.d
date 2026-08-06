@@ -1,6 +1,6 @@
 CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.obj: \
- C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\cg_descent\cg_descent.cpp \
- C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\cg_descent\cg_user.h \
+ C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\cg_descent\cg_descent.cpp \
+ C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\cg_descent\cg_user.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/limits.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/syslimits.h \
  D:/C/mingw64/x86_64-w64-mingw32/include/limits.h \
@@ -30,11 +30,11 @@ CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.obj: \
  D:/C/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
  D:/C/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
  D:/C/mingw64/x86_64-w64-mingw32/include/_mingw_print_pop.h \
- C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\cg_descent\cg_descent.h \
+ C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\cg_descent\cg_descent.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/math.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cmath \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/cpp_type_traits.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/type_traits.h \
  D:/C/mingw64/x86_64-w64-mingw32/include/math.h \
  D:/C/mingw64/x86_64-w64-mingw32/include/ctype.h \
- C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\cg_descent\cg_blas.h
+ C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\cg_descent\cg_blas.h

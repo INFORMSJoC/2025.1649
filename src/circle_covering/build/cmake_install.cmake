@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/89441/Desktop/2025.1649-main/src/circle_covering
+# Install script for directory: C:/Users/89441/Desktop/2025.1649/src/circle_covering
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/89441/Desktop/2025.1649-main/src/circle_covering/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/89441/Desktop/2025.1649/src/circle_covering/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

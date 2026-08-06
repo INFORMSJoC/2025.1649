@@ -56,10 +56,10 @@ RM = D:\C\CMake\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\89441\Desktop\2025.1649-main\src\circle_covering
+CMAKE_SOURCE_DIR = C:\Users\89441\Desktop\2025.1649\src\circle_covering
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build
+CMAKE_BINARY_DIR = C:\Users\89441\Desktop\2025.1649\src\circle_covering\build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\CMakeFiles C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\CMakeFiles C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\CMakeFiles 0
 .PHONY : all
 
 # The main clean target

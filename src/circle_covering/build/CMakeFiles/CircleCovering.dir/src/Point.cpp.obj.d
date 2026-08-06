@@ -1,6 +1,6 @@
 CMakeFiles/CircleCovering.dir/src/Point.cpp.obj: \
- C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\Point.cpp \
- C:/Users/89441/Desktop/2025.1649-main/src/circle_covering/include/Point.h \
+ C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\Point.cpp \
+ C:/Users/89441/Desktop/2025.1649/src/circle_covering/include/Point.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iosfwd \

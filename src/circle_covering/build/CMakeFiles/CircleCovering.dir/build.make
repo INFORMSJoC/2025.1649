@@ -52,10 +52,10 @@ RM = D:\C\CMake\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\89441\Desktop\2025.1649-main\src\circle_covering
+CMAKE_SOURCE_DIR = C:\Users\89441\Desktop\2025.1649\src\circle_covering
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build
+CMAKE_BINARY_DIR = C:\Users\89441\Desktop\2025.1649\src\circle_covering\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/CircleCovering.dir/depend.make
@@ -70,153 +70,153 @@ include CMakeFiles/CircleCovering.dir/flags.make
 
 CMakeFiles/CircleCovering.dir/src/Base.cpp.obj: CMakeFiles/CircleCovering.dir/flags.make
 CMakeFiles/CircleCovering.dir/src/Base.cpp.obj: CMakeFiles/CircleCovering.dir/includes_CXX.rsp
-CMakeFiles/CircleCovering.dir/src/Base.cpp.obj: C:/Users/89441/Desktop/2025.1649-main/src/circle_covering/src/Base.cpp
+CMakeFiles/CircleCovering.dir/src/Base.cpp.obj: C:/Users/89441/Desktop/2025.1649/src/circle_covering/src/Base.cpp
 CMakeFiles/CircleCovering.dir/src/Base.cpp.obj: CMakeFiles/CircleCovering.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CircleCovering.dir/src/Base.cpp.obj"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/src/Base.cpp.obj -MF CMakeFiles\CircleCovering.dir\src\Base.cpp.obj.d -o CMakeFiles\CircleCovering.dir\src\Base.cpp.obj -c C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\Base.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CircleCovering.dir/src/Base.cpp.obj"
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/src/Base.cpp.obj -MF CMakeFiles\CircleCovering.dir\src\Base.cpp.obj.d -o CMakeFiles\CircleCovering.dir\src\Base.cpp.obj -c C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\Base.cpp
 
 CMakeFiles/CircleCovering.dir/src/Base.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CircleCovering.dir/src/Base.cpp.i"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\Base.cpp > CMakeFiles\CircleCovering.dir\src\Base.cpp.i
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\Base.cpp > CMakeFiles\CircleCovering.dir\src\Base.cpp.i
 
 CMakeFiles/CircleCovering.dir/src/Base.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CircleCovering.dir/src/Base.cpp.s"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\Base.cpp -o CMakeFiles\CircleCovering.dir\src\Base.cpp.s
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\Base.cpp -o CMakeFiles\CircleCovering.dir\src\Base.cpp.s
 
 CMakeFiles/CircleCovering.dir/src/CMCC.cpp.obj: CMakeFiles/CircleCovering.dir/flags.make
 CMakeFiles/CircleCovering.dir/src/CMCC.cpp.obj: CMakeFiles/CircleCovering.dir/includes_CXX.rsp
-CMakeFiles/CircleCovering.dir/src/CMCC.cpp.obj: C:/Users/89441/Desktop/2025.1649-main/src/circle_covering/src/CMCC.cpp
+CMakeFiles/CircleCovering.dir/src/CMCC.cpp.obj: C:/Users/89441/Desktop/2025.1649/src/circle_covering/src/CMCC.cpp
 CMakeFiles/CircleCovering.dir/src/CMCC.cpp.obj: CMakeFiles/CircleCovering.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CircleCovering.dir/src/CMCC.cpp.obj"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/src/CMCC.cpp.obj -MF CMakeFiles\CircleCovering.dir\src\CMCC.cpp.obj.d -o CMakeFiles\CircleCovering.dir\src\CMCC.cpp.obj -c C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\CMCC.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CircleCovering.dir/src/CMCC.cpp.obj"
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/src/CMCC.cpp.obj -MF CMakeFiles\CircleCovering.dir\src\CMCC.cpp.obj.d -o CMakeFiles\CircleCovering.dir\src\CMCC.cpp.obj -c C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\CMCC.cpp
 
 CMakeFiles/CircleCovering.dir/src/CMCC.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CircleCovering.dir/src/CMCC.cpp.i"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\CMCC.cpp > CMakeFiles\CircleCovering.dir\src\CMCC.cpp.i
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\CMCC.cpp > CMakeFiles\CircleCovering.dir\src\CMCC.cpp.i
 
 CMakeFiles/CircleCovering.dir/src/CMCC.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CircleCovering.dir/src/CMCC.cpp.s"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\CMCC.cpp -o CMakeFiles\CircleCovering.dir\src\CMCC.cpp.s
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\CMCC.cpp -o CMakeFiles\CircleCovering.dir\src\CMCC.cpp.s
 
 CMakeFiles/CircleCovering.dir/src/Clip.cpp.obj: CMakeFiles/CircleCovering.dir/flags.make
 CMakeFiles/CircleCovering.dir/src/Clip.cpp.obj: CMakeFiles/CircleCovering.dir/includes_CXX.rsp
-CMakeFiles/CircleCovering.dir/src/Clip.cpp.obj: C:/Users/89441/Desktop/2025.1649-main/src/circle_covering/src/Clip.cpp
+CMakeFiles/CircleCovering.dir/src/Clip.cpp.obj: C:/Users/89441/Desktop/2025.1649/src/circle_covering/src/Clip.cpp
 CMakeFiles/CircleCovering.dir/src/Clip.cpp.obj: CMakeFiles/CircleCovering.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CircleCovering.dir/src/Clip.cpp.obj"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/src/Clip.cpp.obj -MF CMakeFiles\CircleCovering.dir\src\Clip.cpp.obj.d -o CMakeFiles\CircleCovering.dir\src\Clip.cpp.obj -c C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\Clip.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CircleCovering.dir/src/Clip.cpp.obj"
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/src/Clip.cpp.obj -MF CMakeFiles\CircleCovering.dir\src\Clip.cpp.obj.d -o CMakeFiles\CircleCovering.dir\src\Clip.cpp.obj -c C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\Clip.cpp
 
 CMakeFiles/CircleCovering.dir/src/Clip.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CircleCovering.dir/src/Clip.cpp.i"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\Clip.cpp > CMakeFiles\CircleCovering.dir\src\Clip.cpp.i
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\Clip.cpp > CMakeFiles\CircleCovering.dir\src\Clip.cpp.i
 
 CMakeFiles/CircleCovering.dir/src/Clip.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CircleCovering.dir/src/Clip.cpp.s"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\Clip.cpp -o CMakeFiles\CircleCovering.dir\src\Clip.cpp.s
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\Clip.cpp -o CMakeFiles\CircleCovering.dir\src\Clip.cpp.s
 
 CMakeFiles/CircleCovering.dir/src/LocalSearch.cpp.obj: CMakeFiles/CircleCovering.dir/flags.make
 CMakeFiles/CircleCovering.dir/src/LocalSearch.cpp.obj: CMakeFiles/CircleCovering.dir/includes_CXX.rsp
-CMakeFiles/CircleCovering.dir/src/LocalSearch.cpp.obj: C:/Users/89441/Desktop/2025.1649-main/src/circle_covering/src/LocalSearch.cpp
+CMakeFiles/CircleCovering.dir/src/LocalSearch.cpp.obj: C:/Users/89441/Desktop/2025.1649/src/circle_covering/src/LocalSearch.cpp
 CMakeFiles/CircleCovering.dir/src/LocalSearch.cpp.obj: CMakeFiles/CircleCovering.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CircleCovering.dir/src/LocalSearch.cpp.obj"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/src/LocalSearch.cpp.obj -MF CMakeFiles\CircleCovering.dir\src\LocalSearch.cpp.obj.d -o CMakeFiles\CircleCovering.dir\src\LocalSearch.cpp.obj -c C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\LocalSearch.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CircleCovering.dir/src/LocalSearch.cpp.obj"
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/src/LocalSearch.cpp.obj -MF CMakeFiles\CircleCovering.dir\src\LocalSearch.cpp.obj.d -o CMakeFiles\CircleCovering.dir\src\LocalSearch.cpp.obj -c C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\LocalSearch.cpp
 
 CMakeFiles/CircleCovering.dir/src/LocalSearch.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CircleCovering.dir/src/LocalSearch.cpp.i"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\LocalSearch.cpp > CMakeFiles\CircleCovering.dir\src\LocalSearch.cpp.i
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\LocalSearch.cpp > CMakeFiles\CircleCovering.dir\src\LocalSearch.cpp.i
 
 CMakeFiles/CircleCovering.dir/src/LocalSearch.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CircleCovering.dir/src/LocalSearch.cpp.s"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\LocalSearch.cpp -o CMakeFiles\CircleCovering.dir\src\LocalSearch.cpp.s
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\LocalSearch.cpp -o CMakeFiles\CircleCovering.dir\src\LocalSearch.cpp.s
 
 CMakeFiles/CircleCovering.dir/src/Point.cpp.obj: CMakeFiles/CircleCovering.dir/flags.make
 CMakeFiles/CircleCovering.dir/src/Point.cpp.obj: CMakeFiles/CircleCovering.dir/includes_CXX.rsp
-CMakeFiles/CircleCovering.dir/src/Point.cpp.obj: C:/Users/89441/Desktop/2025.1649-main/src/circle_covering/src/Point.cpp
+CMakeFiles/CircleCovering.dir/src/Point.cpp.obj: C:/Users/89441/Desktop/2025.1649/src/circle_covering/src/Point.cpp
 CMakeFiles/CircleCovering.dir/src/Point.cpp.obj: CMakeFiles/CircleCovering.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CircleCovering.dir/src/Point.cpp.obj"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/src/Point.cpp.obj -MF CMakeFiles\CircleCovering.dir\src\Point.cpp.obj.d -o CMakeFiles\CircleCovering.dir\src\Point.cpp.obj -c C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\Point.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CircleCovering.dir/src/Point.cpp.obj"
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/src/Point.cpp.obj -MF CMakeFiles\CircleCovering.dir\src\Point.cpp.obj.d -o CMakeFiles\CircleCovering.dir\src\Point.cpp.obj -c C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\Point.cpp
 
 CMakeFiles/CircleCovering.dir/src/Point.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CircleCovering.dir/src/Point.cpp.i"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\Point.cpp > CMakeFiles\CircleCovering.dir\src\Point.cpp.i
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\Point.cpp > CMakeFiles\CircleCovering.dir\src\Point.cpp.i
 
 CMakeFiles/CircleCovering.dir/src/Point.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CircleCovering.dir/src/Point.cpp.s"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\Point.cpp -o CMakeFiles\CircleCovering.dir\src\Point.cpp.s
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\Point.cpp -o CMakeFiles\CircleCovering.dir\src\Point.cpp.s
 
 CMakeFiles/CircleCovering.dir/src/Voronoi.cpp.obj: CMakeFiles/CircleCovering.dir/flags.make
 CMakeFiles/CircleCovering.dir/src/Voronoi.cpp.obj: CMakeFiles/CircleCovering.dir/includes_CXX.rsp
-CMakeFiles/CircleCovering.dir/src/Voronoi.cpp.obj: C:/Users/89441/Desktop/2025.1649-main/src/circle_covering/src/Voronoi.cpp
+CMakeFiles/CircleCovering.dir/src/Voronoi.cpp.obj: C:/Users/89441/Desktop/2025.1649/src/circle_covering/src/Voronoi.cpp
 CMakeFiles/CircleCovering.dir/src/Voronoi.cpp.obj: CMakeFiles/CircleCovering.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CircleCovering.dir/src/Voronoi.cpp.obj"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/src/Voronoi.cpp.obj -MF CMakeFiles\CircleCovering.dir\src\Voronoi.cpp.obj.d -o CMakeFiles\CircleCovering.dir\src\Voronoi.cpp.obj -c C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\Voronoi.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CircleCovering.dir/src/Voronoi.cpp.obj"
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/src/Voronoi.cpp.obj -MF CMakeFiles\CircleCovering.dir\src\Voronoi.cpp.obj.d -o CMakeFiles\CircleCovering.dir\src\Voronoi.cpp.obj -c C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\Voronoi.cpp
 
 CMakeFiles/CircleCovering.dir/src/Voronoi.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CircleCovering.dir/src/Voronoi.cpp.i"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\Voronoi.cpp > CMakeFiles\CircleCovering.dir\src\Voronoi.cpp.i
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\Voronoi.cpp > CMakeFiles\CircleCovering.dir\src\Voronoi.cpp.i
 
 CMakeFiles/CircleCovering.dir/src/Voronoi.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CircleCovering.dir/src/Voronoi.cpp.s"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\Voronoi.cpp -o CMakeFiles\CircleCovering.dir\src\Voronoi.cpp.s
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\Voronoi.cpp -o CMakeFiles\CircleCovering.dir\src\Voronoi.cpp.s
 
 CMakeFiles/CircleCovering.dir/src/main.cpp.obj: CMakeFiles/CircleCovering.dir/flags.make
 CMakeFiles/CircleCovering.dir/src/main.cpp.obj: CMakeFiles/CircleCovering.dir/includes_CXX.rsp
-CMakeFiles/CircleCovering.dir/src/main.cpp.obj: C:/Users/89441/Desktop/2025.1649-main/src/circle_covering/src/main.cpp
+CMakeFiles/CircleCovering.dir/src/main.cpp.obj: C:/Users/89441/Desktop/2025.1649/src/circle_covering/src/main.cpp
 CMakeFiles/CircleCovering.dir/src/main.cpp.obj: CMakeFiles/CircleCovering.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CircleCovering.dir/src/main.cpp.obj"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/src/main.cpp.obj -MF CMakeFiles\CircleCovering.dir\src\main.cpp.obj.d -o CMakeFiles\CircleCovering.dir\src\main.cpp.obj -c C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CircleCovering.dir/src/main.cpp.obj"
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/src/main.cpp.obj -MF CMakeFiles\CircleCovering.dir\src\main.cpp.obj.d -o CMakeFiles\CircleCovering.dir\src\main.cpp.obj -c C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\main.cpp
 
 CMakeFiles/CircleCovering.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CircleCovering.dir/src/main.cpp.i"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\main.cpp > CMakeFiles\CircleCovering.dir\src\main.cpp.i
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\main.cpp > CMakeFiles\CircleCovering.dir\src\main.cpp.i
 
 CMakeFiles/CircleCovering.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CircleCovering.dir/src/main.cpp.s"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\main.cpp -o CMakeFiles\CircleCovering.dir\src\main.cpp.s
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\main.cpp -o CMakeFiles\CircleCovering.dir\src\main.cpp.s
 
 CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.obj: CMakeFiles/CircleCovering.dir/flags.make
 CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.obj: CMakeFiles/CircleCovering.dir/includes_CXX.rsp
-CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.obj: C:/Users/89441/Desktop/2025.1649-main/src/circle_covering/include/cg_descent/cg_descent.cpp
+CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.obj: C:/Users/89441/Desktop/2025.1649/src/circle_covering/include/cg_descent/cg_descent.cpp
 CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.obj: CMakeFiles/CircleCovering.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.obj"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.obj -MF CMakeFiles\CircleCovering.dir\include\cg_descent\cg_descent.cpp.obj.d -o CMakeFiles\CircleCovering.dir\include\cg_descent\cg_descent.cpp.obj -c C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\cg_descent\cg_descent.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.obj"
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.obj -MF CMakeFiles\CircleCovering.dir\include\cg_descent\cg_descent.cpp.obj.d -o CMakeFiles\CircleCovering.dir\include\cg_descent\cg_descent.cpp.obj -c C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\cg_descent\cg_descent.cpp
 
 CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.i"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\cg_descent\cg_descent.cpp > CMakeFiles\CircleCovering.dir\include\cg_descent\cg_descent.cpp.i
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\cg_descent\cg_descent.cpp > CMakeFiles\CircleCovering.dir\include\cg_descent\cg_descent.cpp.i
 
 CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.s"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\cg_descent\cg_descent.cpp -o CMakeFiles\CircleCovering.dir\include\cg_descent\cg_descent.cpp.s
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\cg_descent\cg_descent.cpp -o CMakeFiles\CircleCovering.dir\include\cg_descent\cg_descent.cpp.s
 
 CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.obj: CMakeFiles/CircleCovering.dir/flags.make
 CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.obj: CMakeFiles/CircleCovering.dir/includes_CXX.rsp
-CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.obj: C:/Users/89441/Desktop/2025.1649-main/src/circle_covering/include/clipper/clipper.engine.cpp
+CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.obj: C:/Users/89441/Desktop/2025.1649/src/circle_covering/include/clipper/clipper.engine.cpp
 CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.obj: CMakeFiles/CircleCovering.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.obj"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.obj -MF CMakeFiles\CircleCovering.dir\include\clipper\clipper.engine.cpp.obj.d -o CMakeFiles\CircleCovering.dir\include\clipper\clipper.engine.cpp.obj -c C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\clipper\clipper.engine.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.obj"
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.obj -MF CMakeFiles\CircleCovering.dir\include\clipper\clipper.engine.cpp.obj.d -o CMakeFiles\CircleCovering.dir\include\clipper\clipper.engine.cpp.obj -c C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\clipper\clipper.engine.cpp
 
 CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.i"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\clipper\clipper.engine.cpp > CMakeFiles\CircleCovering.dir\include\clipper\clipper.engine.cpp.i
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\clipper\clipper.engine.cpp > CMakeFiles\CircleCovering.dir\include\clipper\clipper.engine.cpp.i
 
 CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.s"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\clipper\clipper.engine.cpp -o CMakeFiles\CircleCovering.dir\include\clipper\clipper.engine.cpp.s
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\clipper\clipper.engine.cpp -o CMakeFiles\CircleCovering.dir\include\clipper\clipper.engine.cpp.s
 
 CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.obj: CMakeFiles/CircleCovering.dir/flags.make
 CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.obj: CMakeFiles/CircleCovering.dir/includes_CXX.rsp
-CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.obj: C:/Users/89441/Desktop/2025.1649-main/src/circle_covering/include/clipper/clipper.offset.cpp
+CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.obj: C:/Users/89441/Desktop/2025.1649/src/circle_covering/include/clipper/clipper.offset.cpp
 CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.obj: CMakeFiles/CircleCovering.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.obj"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.obj -MF CMakeFiles\CircleCovering.dir\include\clipper\clipper.offset.cpp.obj.d -o CMakeFiles\CircleCovering.dir\include\clipper\clipper.offset.cpp.obj -c C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\clipper\clipper.offset.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.obj"
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.obj -MF CMakeFiles\CircleCovering.dir\include\clipper\clipper.offset.cpp.obj.d -o CMakeFiles\CircleCovering.dir\include\clipper\clipper.offset.cpp.obj -c C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\clipper\clipper.offset.cpp
 
 CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.i"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\clipper\clipper.offset.cpp > CMakeFiles\CircleCovering.dir\include\clipper\clipper.offset.cpp.i
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\clipper\clipper.offset.cpp > CMakeFiles\CircleCovering.dir\include\clipper\clipper.offset.cpp.i
 
 CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.s"
-	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\clipper\clipper.offset.cpp -o CMakeFiles\CircleCovering.dir\include\clipper\clipper.offset.cpp.s
+	D:\C\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\clipper\clipper.offset.cpp -o CMakeFiles\CircleCovering.dir\include\clipper\clipper.offset.cpp.s
 
 # Object files for target CircleCovering
 CircleCovering_OBJECTS = \
@@ -248,7 +248,7 @@ CircleCovering.exe: CMakeFiles/CircleCovering.dir/build.make
 CircleCovering.exe: CMakeFiles/CircleCovering.dir/linkLibs.rsp
 CircleCovering.exe: CMakeFiles/CircleCovering.dir/objects1.rsp
 CircleCovering.exe: CMakeFiles/CircleCovering.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable CircleCovering.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable CircleCovering.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CircleCovering.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -260,6 +260,6 @@ CMakeFiles/CircleCovering.dir/clean:
 .PHONY : CMakeFiles/CircleCovering.dir/clean
 
 CMakeFiles/CircleCovering.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\89441\Desktop\2025.1649-main\src\circle_covering C:\Users\89441\Desktop\2025.1649-main\src\circle_covering C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\build\CMakeFiles\CircleCovering.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\89441\Desktop\2025.1649\src\circle_covering C:\Users\89441\Desktop\2025.1649\src\circle_covering C:\Users\89441\Desktop\2025.1649\src\circle_covering\build C:\Users\89441\Desktop\2025.1649\src\circle_covering\build C:\Users\89441\Desktop\2025.1649\src\circle_covering\build\CMakeFiles\CircleCovering.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/CircleCovering.dir/depend
 

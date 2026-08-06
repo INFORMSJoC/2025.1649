@@ -25,12 +25,6 @@ void output_details(std::vector<Point> points, double r);
 void output_summary(int n, double r_best, double r_avg, double r_worst, double sigma, double time_avg);
 double deviation(std::vector<double> a, int n);
 
-// Draw
-void save_region(std::string path);
-void save_points(std::vector<Point> points, std::string name, std::string path);
-void save_result(std::vector<Point> points, double radius, std::string path);
-void save_Voronoi(std::vector<Point> points, std::vector<std::vector<Point>> voronoi, std::string path);
-
 // Check
 bool result_is_legal(std::vector<Point> points, double r);
 bool time_out();

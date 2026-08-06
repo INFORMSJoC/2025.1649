@@ -1,6 +1,6 @@
 CMakeFiles/CircleCovering.dir/src/CMCC.cpp.obj: \
- C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\src\CMCC.cpp \
- C:/Users/89441/Desktop/2025.1649-main/src/circle_covering/include/CMCC.h \
+ C:\Users\89441\Desktop\2025.1649\src\circle_covering\src\CMCC.cpp \
+ C:/Users/89441/Desktop/2025.1649/src/circle_covering/include/CMCC.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cassert \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -105,7 +105,7 @@ CMakeFiles/CircleCovering.dir/src/CMCC.cpp.obj: \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cerrno \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/functional_hash.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/basic_string.tcc \
- C:/Users/89441/Desktop/2025.1649-main/src/circle_covering/include/Point.h \
+ C:/Users/89441/Desktop/2025.1649/src/circle_covering/include/Point.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/ios_base.h \

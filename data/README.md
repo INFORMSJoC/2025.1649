@@ -1,12 +1,12 @@
 # Benchmark Instances
 
-This directory contains all benchmark instances used in the computational experiments reported in the paper.
+This directory contains all the regions used to generate the benchmark instances which were used in our computational experiments.
 
-The same set of benchmark instances is also provided in `src/circle_covering/data`, where they are directly accessed by the C++ implementation.
+The same set of benchmark regions is also provided in `src/circle_covering/data`.
 
 ## File Format
 
-Each instance is stored as a plain text file describing a polygonal region and, optionally, one or more holes.
+Each benchmark region is stored as a plain text file describing a polygonal region possibly with one or more holes.
 
 The first section defines the outer boundary of the region:
 
@@ -22,7 +22,7 @@ where
 
 * `C` indicates the container (outer polygon);
 * `m` is the number of vertices of the container;
-* `(xi, yi)` are the coordinates of the polygon vertices listed in order (clockwise or counterclockwise).
+* `(xi, yi)` are the coordinates of the vertices of polygonal container, which are listed in a counterclockwise order.
 
 If the region contains holes, each hole is described by a separate section:
 
@@ -38,9 +38,9 @@ where
 
 * `H` indicates a hole;
 * `k` is the number of vertices of the hole;
-* `(xi, yi)` are the coordinates of the hole boundary listed in order.
+* `(xi, yi)` are the coordinates of the vertices of polygonal hole , which are listed in a counterclockwise order.
 
-An instance may contain any number of hole sections. If no `H` section appears, the region contains no holes.
+A polygonal region may contain holes. If no `H` appears, the region contains no holes.
 
 ## Example
 
@@ -73,6 +73,6 @@ This example represents
 
 ## Notes
 
-* Polygon vertices should be listed sequentially along each boundary.
-* Multiple `H` sections indicate multiple holes within the same region.
-* All benchmark instances in this directory are identical to those in `src/Circle Covering/data`, which are used directly by the implementation.
+* The vertices of each polygon should be listed in counterclockwise order.
+* The region contains multiple holes if 'H' appears multiple times.
+* All benchmark regions in this directory are the same as those in `src/circle_covering/data`.

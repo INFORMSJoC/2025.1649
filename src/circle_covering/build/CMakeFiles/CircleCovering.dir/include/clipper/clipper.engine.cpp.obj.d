@@ -1,5 +1,5 @@
 CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.obj: \
- C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\clipper\clipper.engine.cpp \
+ C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\clipper\clipper.engine.cpp \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdlib \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -113,9 +113,9 @@ CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.obj: \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_tempbuf.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/uniform_int_dist.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/limits \
- C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\clipper\clipper.h \
- C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\clipper\clipper.offset.h \
- C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\clipper\clipper.engine.h \
+ C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\clipper\clipper.h \
+ C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\clipper\clipper.offset.h \
+ C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\clipper\clipper.engine.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ostream \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ios \
@@ -162,6 +162,6 @@ CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.obj: \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/atomic_base.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/atomic_lockfree_defines.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward/auto_ptr.h \
- C:\Users\89441\Desktop\2025.1649-main\src\circle_covering\include\clipper\clipper.core.h \
+ C:\Users\89441\Desktop\2025.1649\src\circle_covering\include\clipper\clipper.core.h \
  D:/C/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/climits \
- C:/Users/89441/Desktop/2025.1649-main/src/circle_covering/include/Point.h
+ C:/Users/89441/Desktop/2025.1649/src/circle_covering/include/Point.h
