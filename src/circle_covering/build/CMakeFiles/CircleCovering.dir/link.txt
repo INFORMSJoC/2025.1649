@@ -1,0 +1,3 @@
+D:\C\CMake\bin\cmake.exe -E rm -f CMakeFiles\CircleCovering.dir/objects.a
+D:\C\mingw64\bin\ar.exe qc CMakeFiles\CircleCovering.dir/objects.a @CMakeFiles\CircleCovering.dir\objects1.rsp
+D:\C\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\CircleCovering.dir/objects.a -Wl,--no-whole-archive -o CircleCovering.exe -Wl,--out-implib,libCircleCovering.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CircleCovering.dir\linkLibs.rsp

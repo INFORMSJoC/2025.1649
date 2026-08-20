@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/build",
+  "command": "D:\\C\\mingw64\\bin\\g++.exe  @CMakeFiles/CircleCovering.dir/includes_CXX.rsp -g -o CMakeFiles\\CircleCovering.dir\\src\\Base.cpp.obj -c C:\\Users\\89441\\Desktop\\2025.1649\\src\\circle_covering\\src\\Base.cpp",
+  "file": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/src/Base.cpp",
+  "output": "CMakeFiles/CircleCovering.dir/src/Base.cpp.obj"
+},
+{
+  "directory": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/build",
+  "command": "D:\\C\\mingw64\\bin\\g++.exe  @CMakeFiles/CircleCovering.dir/includes_CXX.rsp -g -o CMakeFiles\\CircleCovering.dir\\src\\CMCC.cpp.obj -c C:\\Users\\89441\\Desktop\\2025.1649\\src\\circle_covering\\src\\CMCC.cpp",
+  "file": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/src/CMCC.cpp",
+  "output": "CMakeFiles/CircleCovering.dir/src/CMCC.cpp.obj"
+},
+{
+  "directory": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/build",
+  "command": "D:\\C\\mingw64\\bin\\g++.exe  @CMakeFiles/CircleCovering.dir/includes_CXX.rsp -g -o CMakeFiles\\CircleCovering.dir\\src\\Clip.cpp.obj -c C:\\Users\\89441\\Desktop\\2025.1649\\src\\circle_covering\\src\\Clip.cpp",
+  "file": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/src/Clip.cpp",
+  "output": "CMakeFiles/CircleCovering.dir/src/Clip.cpp.obj"
+},
+{
+  "directory": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/build",
+  "command": "D:\\C\\mingw64\\bin\\g++.exe  @CMakeFiles/CircleCovering.dir/includes_CXX.rsp -g -o CMakeFiles\\CircleCovering.dir\\src\\LocalSearch.cpp.obj -c C:\\Users\\89441\\Desktop\\2025.1649\\src\\circle_covering\\src\\LocalSearch.cpp",
+  "file": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/src/LocalSearch.cpp",
+  "output": "CMakeFiles/CircleCovering.dir/src/LocalSearch.cpp.obj"
+},
+{
+  "directory": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/build",
+  "command": "D:\\C\\mingw64\\bin\\g++.exe  @CMakeFiles/CircleCovering.dir/includes_CXX.rsp -g -o CMakeFiles\\CircleCovering.dir\\src\\Point.cpp.obj -c C:\\Users\\89441\\Desktop\\2025.1649\\src\\circle_covering\\src\\Point.cpp",
+  "file": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/src/Point.cpp",
+  "output": "CMakeFiles/CircleCovering.dir/src/Point.cpp.obj"
+},
+{
+  "directory": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/build",
+  "command": "D:\\C\\mingw64\\bin\\g++.exe  @CMakeFiles/CircleCovering.dir/includes_CXX.rsp -g -o CMakeFiles\\CircleCovering.dir\\src\\Voronoi.cpp.obj -c C:\\Users\\89441\\Desktop\\2025.1649\\src\\circle_covering\\src\\Voronoi.cpp",
+  "file": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/src/Voronoi.cpp",
+  "output": "CMakeFiles/CircleCovering.dir/src/Voronoi.cpp.obj"
+},
+{
+  "directory": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/build",
+  "command": "D:\\C\\mingw64\\bin\\g++.exe  @CMakeFiles/CircleCovering.dir/includes_CXX.rsp -g -o CMakeFiles\\CircleCovering.dir\\src\\main.cpp.obj -c C:\\Users\\89441\\Desktop\\2025.1649\\src\\circle_covering\\src\\main.cpp",
+  "file": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/src/main.cpp",
+  "output": "CMakeFiles/CircleCovering.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/build",
+  "command": "D:\\C\\mingw64\\bin\\g++.exe  @CMakeFiles/CircleCovering.dir/includes_CXX.rsp -g -o CMakeFiles\\CircleCovering.dir\\include\\cg_descent\\cg_descent.cpp.obj -c C:\\Users\\89441\\Desktop\\2025.1649\\src\\circle_covering\\include\\cg_descent\\cg_descent.cpp",
+  "file": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/include/cg_descent/cg_descent.cpp",
+  "output": "CMakeFiles/CircleCovering.dir/include/cg_descent/cg_descent.cpp.obj"
+},
+{
+  "directory": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/build",
+  "command": "D:\\C\\mingw64\\bin\\g++.exe  @CMakeFiles/CircleCovering.dir/includes_CXX.rsp -g -o CMakeFiles\\CircleCovering.dir\\include\\clipper\\clipper.engine.cpp.obj -c C:\\Users\\89441\\Desktop\\2025.1649\\src\\circle_covering\\include\\clipper\\clipper.engine.cpp",
+  "file": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/include/clipper/clipper.engine.cpp",
+  "output": "CMakeFiles/CircleCovering.dir/include/clipper/clipper.engine.cpp.obj"
+},
+{
+  "directory": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/build",
+  "command": "D:\\C\\mingw64\\bin\\g++.exe  @CMakeFiles/CircleCovering.dir/includes_CXX.rsp -g -o CMakeFiles\\CircleCovering.dir\\include\\clipper\\clipper.offset.cpp.obj -c C:\\Users\\89441\\Desktop\\2025.1649\\src\\circle_covering\\include\\clipper\\clipper.offset.cpp",
+  "file": "C:/Users/89441/Desktop/2025.1649/src/circle_covering/include/clipper/clipper.offset.cpp",
+  "output": "CMakeFiles/CircleCovering.dir/include/clipper/clipper.offset.cpp.obj"
+}
+]

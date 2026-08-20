@@ -1,0 +1,1 @@
+The file `run.sh` is a script used to build the project and at the same time launch run.

@@ -1,0 +1,3 @@
+C:/Users/89441/Desktop/2025.1649/src/circle_covering/build/CMakeFiles/CircleCovering.dir
+C:/Users/89441/Desktop/2025.1649/src/circle_covering/build/CMakeFiles/edit_cache.dir
+C:/Users/89441/Desktop/2025.1649/src/circle_covering/build/CMakeFiles/rebuild_cache.dir
